@@ -1,0 +1,17 @@
+
+{
+"name": "MSAND1988",
+"theme": "M SAND1988",
+"version": "7.3.10",
+"description": "M SAND1988 สมัครเว็บคาสิโนเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
+"keywords": [
+"M SAND1988",
+"M SAND1988 เครดิตฟรี",
+"M SAND1988 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/MSAND1988",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
